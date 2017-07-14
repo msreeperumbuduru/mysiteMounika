@@ -93,7 +93,7 @@ DATABASES = {
         'HOST': 'ec2-107-21-113-16.compute-1.amazonaws.com',
         'PORT': '5432',
     }
-}
+
 
 
 # Password validation
