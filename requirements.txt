@@ -15,7 +15,6 @@ cffi==1.7.0
 chest==0.2.3
 click==6.6
 cloudpickle==0.2.1
-clyent==1.2.2
 colorama==0.3.7
 comtypes==1.1.2
 conda==4.3.8
@@ -49,19 +48,11 @@ h5py==2.6.0
 HeapDict==1.0.0
 idna==2.1
 imagesize==0.7.1
-ipykernel==4.5.0
-ipython==5.1.0
-ipython-genutils==0.1.0
-ipywidgets==5.2.2
 itsdangerous==0.24
 jdcal==1.2
 jedi==0.9.0
 Jinja2==2.8
 jsonschema==2.5.1
-jupyter==1.0.0
-jupyter-client==4.4.0
-jupyter-console==5.0.0
-jupyter-core==4.2.0
 lazy-object-proxy==1.2.1
 llvmlite==0.13.0
 locket==0.2.0
