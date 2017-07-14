@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- New XML document created with EditiX XML Editor (http://www.editix.com) at Tue Jul 04 20:12:04 CDT 2017 -->
+
+<Prescription>
+	<PatientName>
+		<FirstName>Maria</FirstName>
+		<MiddleName>M</MiddleName>
+		<LastName>Mendiola</LastName>
+	</PatientName>
+	<PatientAddress>
+		<StreetAddress>5113 South 84th Street</StreetAddress>
+		<City>Omaha</City>
+		<State>NE</State>
+	</PatientAddress>
+	<PatientPhone>402-506-4951</PatientPhone>
+	<DoctorNationalProviderNumber>
+		<Number>1366465023</Number>
+		<url>https://npiregistry.cms.hhs.gov/</url>
+	</DoctorNationalProviderNumber>
+	<PharmacyNumber>781032</PharmacyNumber>
+	<MedicationName>Augmentin</MedicationName>
+	<Dosage>800 mg</Dosage>
+	<Form>tablet</Form>
+	<SIG_Instructions>Take two on first day with food, Take one a day with food for remaining 8 days</SIG_Instructions>
+	<Quantity>10</Quantity>
+	<Duration>9 Days</Duration>
+	<Refills>0</Refills>
+</Prescription>
